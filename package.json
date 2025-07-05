@@ -1,0 +1,22 @@
+{
+  "name": "vision-ai-pro",
+  "version": "1.0.0",
+  "description": "Advanced Object Detection Platform using AI",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -o",
+    "dev": "npx http-server -c-1 -o",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "object-detection",
+    "ai",
+    "computer-vision"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "serve": "^14.2.1"
+  }
+}
